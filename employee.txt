@@ -1,0 +1,7 @@
+CREATE TABLE EMPLOYEE (
+	empid INT,
+	empname TEXT,
+	empsal INT,
+	empdob DATE,
+	emploc TEXT
+);
