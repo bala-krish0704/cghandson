@@ -1,0 +1,9 @@
+
+
+SELECT * FROM employee WHRERE empsal BETWEEN 20000 AND 45000;
+
+SELECT * FROM employee WHERE empnamen like'%T';
+
+SELECT * FROM department WHERE deptloc = 'chennai';
+
+
