@@ -6,4 +6,6 @@ SELECT * FROM employee WHERE empnamen like'%T';
 
 SELECT * FROM department WHERE deptloc = 'chennai';
 
+SELECT * from Department WHERE Department deptloc='chennai'AND'hyderbad'
 
+SELECT * from Employees WHERE Employees deptloc  NOT IN('chennai', 'hyderbad');
